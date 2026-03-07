@@ -28,6 +28,7 @@ The functions applied include `SUM`, `MAX`, `INDEX`, `MATCH`, `AVERAGEIF`, `IF`,
 Revenue was calculated by first deriving a **Revenue column** (Sale Price × Quantity Sold by Salesperson) in the working dataset, then aggregating using `SUM` across the full range. This approach accounts for volume sold per transaction, ensuring revenue accurately reflects units moved rather than list price alone.
 
 **Result:**
+
 ![Total Revenue from Sales](Total_Revenue_from_Sales/Total_Revenue_from_Sales.png)
 
 ---
@@ -37,6 +38,7 @@ Revenue was calculated by first deriving a **Revenue column** (Sale Price × Qua
 The `MAX` function was used to identify the peak sale price within the dataset. To retrieve the corresponding vehicle, `INDEX` and `MATCH` were combined to locate the brand and model associated with that price point, with concatenation used to present both fields in a readable format.
 
 **Result:**
+
 ![Highest-Value Vehicle Sale](Highest_Value_Vehicle_Sale/Highest_Value_Vehicle_Sale.png)
 
 ---
@@ -48,6 +50,7 @@ A conditional average (`AVERAGEIF`) was applied to isolate only electric vehicle
 With 261 of the 1,000 transactions being electric vehicles the largest single fuel-type segment in the dataset. The EV average of $62,910.
 
 **Result:**
+
 ![Average Price of Electric Cars](Average_Price_of_Electric_Cars/Average_Price_of_Electric_Cars.png)
 
 ---
@@ -58,6 +61,7 @@ Each transaction was classified as either **High-Value** (sale price ≥ $50,000
 
 
 **Result**
+
 ![Sales Performance Classification](sales-performance-classification/sales-performance-classification.png)
 
 ---
@@ -68,6 +72,7 @@ Each salesperson was classified as **Top Performer**, **Average**, or **Needs Im
 
 **Result**
 
+
 ![Salesperson Performance Classification](salesperson-performance-classification/salesperson-performance-classification.png)
 
 ---
@@ -75,6 +80,8 @@ Each salesperson was classified as **Top Performer**, **Average**, or **Needs Im
 ### 6. Identifying Profitable Electric Car Sales
 
 To flag profitable EV transactions, a compound condition was evaluated using the `AND` function nested within `IF`: transactions were labelled **'Profitable'** only where the fuel type was Electric and the sale price exceeded $40,000. The dataset was then filtered to electric vehicles for focused review.
+
+**Result**
 
 ![Profitable EV Sales](profitable-ev-sales/profitable-ev-sales.png)
 
