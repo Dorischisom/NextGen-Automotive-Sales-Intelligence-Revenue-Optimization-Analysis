@@ -7,6 +7,14 @@ NextGen Automotive Sales Group is a high-volume dealership operating across mult
 This analysis provides a comprehensive assessment of the dealership's revenue streams, product pricing tiers, and individual salesperson effectiveness.  
 By transforming raw transactional data into actionable intelligence through structured Excel-based analysis, this project supports leadership in optimising inventory decisions, identifying high-performing talent, and refining incentive structures to sustain long-term growth.
 
+## Buiness Questions
+1. The CEO wants to understand the total revenue generated from all car sales combined.
+2. The Head of the Luxury Car Division wants to know which car recorded the highest sale price.
+3. The Sustainability Department wants to understand pricing trends for electric vehicles.
+4. Management wants to categorize sales transactions based on value.
+5. Management wants to evaluate individual salesperson performance.
+6. The Finance Team wants to flag high-value electric car sales sold for over $40,000 for profitability tracking.
+
 ---
 
 ## Tools & Methodology
