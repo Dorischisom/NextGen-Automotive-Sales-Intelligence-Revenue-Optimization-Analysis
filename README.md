@@ -97,12 +97,13 @@ To flag profitable EV transactions, a compound condition was evaluated using the
 
 ## Key Business Insights
 
-- Total revenue generated exceeded **$1.6 billion**, indicating strong overall sales performance.
-- The highest individual sale was **$99,948**, recorded for a Volkswagen Truck.
-- Electric vehicles maintain a relatively high average selling price of **$62,910**, suggesting strong premium positioning.
-- High-value transactions (≥ $50,000) represent a significant portion of revenue contribution.
-- Sales performance classification enables management to identify top performers and those requiring support.
-- **80.5% of EV transactions are profitable** (> $40,000), making the EV segment a reliable driver of margin-positive business.
+1. Total revenue generated exceeded **$1.6 billion**, indicating strong overall sales performance.
+2. The highest individual sale was **$99,948**, recorded for a **Volkswagen Truck.**
+3. Electric vehicles maintain a relatively high average selling price of **$62,910**, suggesting strong premium positioning.
+4. High-value transactions **(≥ $50,000)** represent a significant portion of revenue contribution.
+5. The sales force skews toward high performance - **Top Performers (386)** outnumber both **Average (320) and Needs Improvement (294)** reps - yet with nearly 1 in 3 salespeople underperforming, targeted coaching could meaningfully lift overall revenue.
+6. **80.5%** of EV transactions are **profitable (> $40,000)**, making the EV segment a reliable driver of margin-positive business.
+
 
 ---
 
