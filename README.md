@@ -1,4 +1,4 @@
-# Nextgen Automotive Sales Analysis
+# Nextgen Automotive Sales Intelligence & Revenue Optimization Analysis
 
 ## Project Overview
 
