@@ -27,6 +27,8 @@ Each business question was addressed in a dedicated worksheet, with all calculat
 
 The functions applied include `SUM`, `MAX`, `INDEX`, `MATCH`, `AVERAGEIF`, `IF`, `COUNTIF`, and `AND` selected based on the specific aggregation or classification requirements of each question.
 
+[View Excel Spreadsheet Here](Car_Sales_Data/Car_Sales_Data.xlsx)
+
 ---
 
 ## Analysis & Findings
